@@ -10,4 +10,4 @@
 	
 	-/Feature_Maps/TIR_FM: Task-irrelevant feature maps are located under this path;
   
-5. Feature maps, and de-raining results of all images from different dataset,  and all codes will be released in this repository after paper acceptance.
+5. All feature maps, and de-raining results of images from different datasets,  and all codes will be released in this repository after paper acceptance.
